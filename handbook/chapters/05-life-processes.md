@@ -13,7 +13,7 @@ next_url: /handbook/chapters/06-control-and-coordination/
 
 ### Learning goals
 
-Explain nutrition, respiration, transport, and excretion in organisms and distinguish related processes.
+Study the key concepts, explanations, examples, and evidence in this chapter.
 
 Living organisms need energy and materials. **Nutrition** is the acquisition and use of food. Green plants use light energy to make glucose from carbon dioxide and water, releasing oxygen. Chlorophyll and suitable light are needed. Animals obtain food by consuming other organisms and digesting it into absorbable molecules.
 
@@ -31,15 +31,14 @@ Excretion removes metabolic wastes. Human kidneys filter blood and help regulate
 
 
 
-### Practice questions
+### Practice questions and feedback
 
 **L1.** Distinguish breathing from cellular respiration and excretion from egestion.
 
+- **L1:** Breathing is air movement/gas exchange with the environment; cellular respiration is energy-releasing chemistry in cells. Excretion removes metabolic wastes; egestion removes undigested food.
+
 **L2.** Why is “arteries always carry oxygen-rich blood” an unsafe definition?
 
-### Answers and feedback
-
-- **L1:** Breathing is air movement/gas exchange with the environment; cellular respiration is energy-releasing chemistry in cells. Excretion removes metabolic wastes; egestion removes undigested food.
 - **L2:** Arteries carry blood away from the heart. Blood oxygen level depends on the vessel and circulation pathway; the pulmonary artery is an important counterexample.
 
 ### Retrieval check

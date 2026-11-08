@@ -13,7 +13,7 @@ next_url: /handbook/chapters/10-human-eye-and-colourful-world/
 
 ### Learning goals
 
-Apply ray models and the prescribed sign convention to reflection, refraction, mirrors, and lenses.
+Study the key concepts, explanations, examples, and evidence in this chapter.
 
 Light travels in straight lines through a uniform transparent medium in the ray model. At a reflecting surface, the angle of incidence equals the angle of reflection; both angles are measured from the normal, an imaginary line perpendicular to the surface. Curved mirrors can form images whose nature and size depend on object position.
 
@@ -25,11 +25,9 @@ Under the common Cartesian sign convention used in school optics, distances are 
 
 **Worked example.** A thin lens has focal length `+20 cm`. Under the stated convention it is converging. An object at `u = -30 cm` forms an image according to `1/20 = 1/v - 1/(-30)`. Thus `1/v = 1/20 - 1/30 = 1/60`, so `v = +60 cm`. The positive image distance indicates a real image on the side opposite the object under this convention. Check the ray diagram to confirm the interpretation.
 
-### Practice questions
+### Practice questions and feedback
 
 **N1.** A ray makes an angle of incidence of `35°` with the normal. What is its angle of reflection?
-
-### Answers and feedback
 
 - **N1:** `35°`, measured from the normal.
 

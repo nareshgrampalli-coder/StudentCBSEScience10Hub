@@ -13,36 +13,16 @@ next_url: /handbook/chapters/05-life-processes/
 
 ### Learning goals
 
-Explain carbon bonding and simple organic patterns, combustion, and the cleaning action of soap and detergents.
+Study the key concepts, explanations, examples, and evidence in this chapter.
 
-### Key vocabulary
+Carbon forms many compounds because a carbon atom can form four covalent bonds and carbon atoms can link to one another. A covalent bond is a shared pair of electrons. Simple molecular compounds do not generally conduct electricity because they lack freely moving charged particles.
 
-**Reactant:** starting substance in a reaction. **Product:** substance formed. **Precipitate:** insoluble solid produced in a solution. **Oxidation:** addition of oxygen or removal of hydrogen in the school-level model. **Reduction:** removal of oxygen or addition of hydrogen. **Corrosion:** gradual damage to a material by its surroundings.
+Organic compounds can form a **homologous series**: members share a functional group and general pattern, and successive members differ by a `CH2` unit. A functional group strongly influences chemical behaviour. Learn the series and functional groups prescribed by the current syllabus rather than extending the list from memory alone.
 
-Atoms are rearranged in a chemical reaction; they are not created or destroyed. A chemical equation represents this rearrangement. The number of atoms of each element must therefore be the same on both sides. Change coefficients to balance an equation; do not alter the small numbers within a chemical formula.
+Combustion of a carbon compound in sufficient oxygen can produce carbon dioxide and water; limited oxygen can lead to incomplete combustion and carbon monoxide or soot. Ethanol and ethanoic acid have different functional groups and properties. Ethanoic acid reacts with a carbonate to release carbon dioxide. Soap molecules have a water-attracting end and an oil-attracting end, helping disperse grease in water. Detergents can clean in water conditions where soap forms scum more readily.
 
-**Worked example.** Balance hydrogen reacting with oxygen to form water.
-
-Start with `H2 + O2 → H2O`. Two water molecules are needed to match the two oxygen atoms: `H2 + O2 → 2H2O`. There are now four hydrogen atoms on the right, so use two hydrogen molecules on the left:
-
-`2H2 + O2 → 2H2O`
-
-Check: four H atoms and two O atoms on each side.
-
-### Common reaction patterns
-
-- **Combination:** two or more reactants form one product; for example, `2Mg + O2 → 2MgO`.
-- **Decomposition:** one compound breaks into simpler substances, often with heat, light, or electricity supplied.
-- **Displacement:** a more reactive element replaces a less reactive element in a compound.
-- **Double displacement:** ions exchange partners; a precipitate, gas, or water may form.
-- **Oxidation and reduction:** these can occur together in the same reaction. For instance, in `CuO + H2 → Cu + H2O`, copper(II) oxide loses oxygen (reduction) while hydrogen gains oxygen (oxidation).
-
-State symbols such as `(s)`, `(l)`, `(g)`, and `(aq)` identify physical state or solution. Add them only when the states are known.
-
-### Practice questions
+### Practice questions and feedback
 
 **C6.** A hydrocarbon burns with a smoky flame. Give a likely explanation and one way to make combustion more complete.
-
-### Answers and feedback
 
 - **C6:** Limited oxygen can cause incomplete combustion and soot. Adequate air/oxygen and an appropriate burner setting promote more complete combustion; never adjust a flame without supervision.

@@ -13,29 +13,18 @@ next_url: /handbook/chapters/08-heredity/
 
 ### Learning goals
 
-Compare sexual and asexual reproduction and describe key stages in plant reproduction and reproductive health.
+Study the key concepts, explanations, examples, and evidence in this chapter.
 
-Living organisms need energy and materials. **Nutrition** is the acquisition and use of food. Green plants use light energy to make glucose from carbon dioxide and water, releasing oxygen. Chlorophyll and suitable light are needed. Animals obtain food by consuming other organisms and digesting it into absorbable molecules.
+Reproduction produces new organisms; it is not required for an individual organism to stay alive. Asexual reproduction typically involves one parent and produces offspring with very similar inherited information, although variation can still arise. Sexual reproduction involves the joining of gametes and produces new combinations of inherited information.
 
-**Respiration** releases usable energy from food through chemical reactions in cells. It is not the same as breathing: breathing exchanges gases with the environment, while cellular respiration occurs in cells. Aerobic respiration uses oxygen and releases more energy per glucose molecule than anaerobic pathways.
+In flowering plants, pollen carries male gametes to the female part of a flower. After fertilisation, the ovule develops into a seed and the ovary may develop into a fruit. Human reproduction involves specialised reproductive organs and gametes. Puberty is a period of physical development; it does not by itself imply emotional or social readiness for parenthood.
 
-### Transport
-
-In humans, blood transports dissolved substances and cells through a closed network. The heart pumps blood; arteries carry blood away from the heart, veins return blood to it, and capillaries allow exchange with tissues. The direction is defined relative to the heart, not by whether the blood is oxygen-rich. Plants move water and minerals mainly through xylem and transport sugars through phloem; transpiration can contribute to the movement of water.
-
-### Excretion
-
-Excretion removes metabolic wastes. Human kidneys filter blood and help regulate water and dissolved substances; urine travels through the urinary system. Plants may store wastes in tissues or release some to their surroundings. Excretion is distinct from egestion, the removal of undigested food from the digestive tract.
-
-**Worked explanation.** During exercise, muscle cells use energy faster. Breathing and heart rates rise to increase oxygen delivery and carbon dioxide removal. This is a coordinated response to increased demand, not evidence that respiration occurs only in the lungs.
+Reproductive health includes reliable information, personal safety, consent, hygiene, and access to appropriate healthcare. For personal medical decisions, consult a qualified health professional rather than relying on a study guide.
 
 
-
-### Practice questions
+### Practice questions and feedback
 
 **L4.** Give one biological advantage and one limitation of asexual reproduction compared with sexual reproduction.
-
-### Answers and feedback
 
 - **L4:** Asexual reproduction can be rapid and needs no partner; limited genetic variation can reduce adaptability when conditions change. Sexual reproduction can create combinations of variation but uses more time/energy and requires gametes to meet.
 

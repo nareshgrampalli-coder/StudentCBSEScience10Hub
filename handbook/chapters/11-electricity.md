@@ -13,7 +13,7 @@ next_url: /handbook/chapters/12-magnetic-effects-of-electric-current/
 
 ### Learning goals
 
-Relate current, potential difference, resistance, circuit combinations, heating, and power using units.
+Study the key concepts, explanations, examples, and evidence in this chapter.
 
 Electric current is the rate of flow of charge: `I = Q/t`. Its SI unit is the ampere (A). Potential difference is energy transferred per unit charge: `V = W/Q`, measured in volts (V). Resistance describes opposition to current and is measured in ohms (Ω).
 
@@ -31,18 +31,18 @@ Electrical energy can be transferred as heat. For a resistor, the heating relati
 
 
 
-### Practice questions
+### Practice questions and feedback
 
 **E1.** A `4 Ω` resistor has a `2 A` current. Find its potential difference and power.
 
+- **E1:** `V = IR = 2 × 4 = 8 V`. `P = VI = 8 × 2 = 16 W`.
+
 **E2.** Two resistors, `3 Ω` and `6 Ω`, are in parallel. Find equivalent resistance and explain why it is less than either resistor.
+
+- **E2:** `1/R = 1/3 + 1/6 = 1/2`, so `R = 2 Ω`. Parallel paths allow more total charge flow for the same potential difference; equivalent resistance is below either branch resistance.
 
 **E3.** A `10 Ω` resistor is connected to `5 V`. Calculate current and power.
 
-### Answers and feedback
-
-- **E1:** `V = IR = 2 × 4 = 8 V`. `P = VI = 8 × 2 = 16 W`.
-- **E2:** `1/R = 1/3 + 1/6 = 1/2`, so `R = 2 Ω`. Parallel paths allow more total charge flow for the same potential difference; equivalent resistance is below either branch resistance.
 - **E3:** `I = V/R = 5/10 = 0.5 A`; `P = VI = 5 × 0.5 = 2.5 W`.
 
 ### Retrieval check

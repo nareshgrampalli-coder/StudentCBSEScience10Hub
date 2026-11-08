@@ -13,7 +13,7 @@ next_url: /handbook/chapters/02-acids-bases-and-salts/
 
 ### Learning goals
 
-Balance equations, classify common reaction patterns, and describe oxidation and reduction using evidence.
+Study the key concepts, explanations, examples, and evidence in this chapter.
 
 ### Key vocabulary
 
@@ -39,18 +39,18 @@ Check: four H atoms and two O atoms on each side.
 
 State symbols such as `(s)`, `(l)`, `(g)`, and `(aq)` identify physical state or solution. Add them only when the states are known.
 
-### Practice questions
+### Practice questions and feedback
 
 **C1.** Balance `Al + O2 → Al2O3`.
 
+- **C1:** `4Al + 3O2 → 2Al2O3`. Both sides have four Al and six O atoms.
+
 **C2.** In `Zn + CuSO4 → ZnSO4 + Cu`, identify the reaction pattern and explain what the observation of a copper coating would indicate.
+
+- **C2:** Displacement. A copper coating is consistent with copper ions being reduced to copper metal as zinc is oxidised to zinc ions. Other evidence, such as a change in solution colour, may support the inference.
 
 **C5.** Explain why changing a coefficient can balance an equation but changing a formula's subscript changes the substance.
 
-### Answers and feedback
-
-- **C1:** `4Al + 3O2 → 2Al2O3`. Both sides have four Al and six O atoms.
-- **C2:** Displacement. A copper coating is consistent with copper ions being reduced to copper metal as zinc is oxidised to zinc ions. Other evidence, such as a change in solution colour, may support the inference.
 - **C5:** A coefficient changes the number of molecules represented, preserving each formula. A subscript changes the atom ratio and therefore the identity of the compound.
 
 ### Retrieval check

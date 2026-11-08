@@ -13,7 +13,7 @@ next_url: /handbook/sections/final-revision-sheet/
 
 ### Learning goals
 
-Interpret food chains and webs, distinguish matter cycling from energy flow, and evaluate environmental impacts.
+Study the key concepts, explanations, examples, and evidence in this chapter.
 
 An ecosystem includes living organisms and the non-living conditions with which they interact. Producers, such as green plants, use an energy source to make organic matter. Consumers obtain matter by feeding on other organisms. Decomposers break down dead material and wastes, returning nutrients to the environment.
 
@@ -34,18 +34,18 @@ Pollution can affect air, water, and soil. Persistent chemicals may accumulate i
 - Removing one organism can affect multiple relationships in a food web.
 - “Natural” does not automatically mean safe; assess evidence and exposure.
 
-### Practice questions
+### Practice questions and feedback
 
 **R1.** In `algae → small fish → large fish`, what does each arrow represent?
 
+- **R1:** The direction of matter and energy transfer from food to consumer: algae are eaten by small fish; small fish are eaten by large fish.
+
 **R2.** Explain why decomposers are important even though they are not always shown in a short food chain.
+
+- **R2:** Decomposers break down dead organisms and wastes, returning nutrients for reuse in ecosystems. Without decomposition, nutrients would remain locked in dead material.
 
 **R3.** Give one reason a food web can be more informative than a single food chain.
 
-### Answers and feedback
-
-- **R1:** The direction of matter and energy transfer from food to consumer: algae are eaten by small fish; small fish are eaten by large fish.
-- **R2:** Decomposers break down dead organisms and wastes, returning nutrients for reuse in ecosystems. Without decomposition, nutrients would remain locked in dead material.
 - **R3:** A food web shows interconnected feeding relationships and alternative food sources, so it better represents ecosystem complexity.
 
 ### Suggested learning activity
