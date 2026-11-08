@@ -1,20 +1,84 @@
+- title: "Examination overview"
+  url: /handbook/sections/examination-blueprint/
+  source: handbook/sections/examination-blueprint.md
+  group: Exam overview
 - title: "Unit I: Chemical Substances"
   url: /handbook/chemical-substances/
   source: handbook/01-chemical-substances.md
-  group: Handbook
+  group: Units
 - title: "Unit II: World of Living"
   url: /handbook/world-of-living/
   source: handbook/02-world-of-living.md
-  group: Handbook
+  group: Units
 - title: "Unit III: Natural Phenomena"
   url: /handbook/natural-phenomena/
   source: handbook/03-natural-phenomena.md
-  group: Handbook
+  group: Units
 - title: "Unit IV: Effects of Current"
   url: /handbook/effects-of-current/
   source: handbook/04-effects-of-current.md
-  group: Handbook
+  group: Units
 - title: "Unit V: Natural Resources"
   url: /handbook/natural-resources/
   source: handbook/05-natural-resources.md
-  group: Handbook
+  group: Units
+- title: "Chapter 1: Chemical Reactions and Equations"
+  url: /handbook/chapters/01-chemical-reactions-and-equations/
+  source: handbook/chapters/01-chemical-reactions-and-equations.md
+  group: Chapters
+- title: "Chapter 2: Acids, Bases and Salts"
+  url: /handbook/chapters/02-acids-bases-and-salts/
+  source: handbook/chapters/02-acids-bases-and-salts.md
+  group: Chapters
+- title: "Chapter 3: Metals and Non-metals"
+  url: /handbook/chapters/03-metals-and-non-metals/
+  source: handbook/chapters/03-metals-and-non-metals.md
+  group: Chapters
+- title: "Chapter 4: Carbon and its Compounds"
+  url: /handbook/chapters/04-carbon-and-its-compounds/
+  source: handbook/chapters/04-carbon-and-its-compounds.md
+  group: Chapters
+- title: "Chapter 5: Life Processes"
+  url: /handbook/chapters/05-life-processes/
+  source: handbook/chapters/05-life-processes.md
+  group: Chapters
+- title: "Chapter 6: Control and Coordination"
+  url: /handbook/chapters/06-control-and-coordination/
+  source: handbook/chapters/06-control-and-coordination.md
+  group: Chapters
+- title: "Chapter 7: How do Organisms Reproduce?"
+  url: /handbook/chapters/07-how-do-organisms-reproduce/
+  source: handbook/chapters/07-how-do-organisms-reproduce.md
+  group: Chapters
+- title: "Chapter 8: Heredity"
+  url: /handbook/chapters/08-heredity/
+  source: handbook/chapters/08-heredity.md
+  group: Chapters
+- title: "Chapter 9: Light: Reflection and Refraction"
+  url: /handbook/chapters/09-light-reflection-and-refraction/
+  source: handbook/chapters/09-light-reflection-and-refraction.md
+  group: Chapters
+- title: "Chapter 10: The Human Eye and the Colourful World"
+  url: /handbook/chapters/10-human-eye-and-colourful-world/
+  source: handbook/chapters/10-human-eye-and-colourful-world.md
+  group: Chapters
+- title: "Chapter 11: Electricity"
+  url: /handbook/chapters/11-electricity/
+  source: handbook/chapters/11-electricity.md
+  group: Chapters
+- title: "Chapter 12: Magnetic Effects of Electric Current"
+  url: /handbook/chapters/12-magnetic-effects-of-electric-current/
+  source: handbook/chapters/12-magnetic-effects-of-electric-current.md
+  group: Chapters
+- title: "Chapter 13: Our Environment"
+  url: /handbook/chapters/13-our-environment/
+  source: handbook/chapters/13-our-environment.md
+  group: Chapters
+- title: "Final revision sheet"
+  url: /handbook/sections/final-revision-sheet/
+  source: handbook/sections/final-revision-sheet.md
+  group: Final revision
+- title: "Final examination checklist"
+  url: /handbook/sections/final-examination-checklist/
+  source: handbook/sections/final-examination-checklist.md
+  group: Final revision

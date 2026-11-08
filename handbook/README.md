@@ -2,15 +2,27 @@
 
 An original, student-friendly study handbook for CBSE Class 10 Science, prepared for the 2027 board-examination session. It is an independent learning resource, not a CBSE publication or a substitute for the prescribed textbook, teacher guidance, or the current official syllabus.
 
-## Contents
+## Online site
 
-1. [Chemical Substances: Nature and Behaviour](01-chemical-substances.md)
-2. [World of Living](02-world-of-living.md)
-3. [Natural Phenomena: Light and the Human Eye](03-natural-phenomena.md)
-4. [Effects of Current: Electricity and Magnetism](04-effects-of-current.md)
-5. [Natural Resources and Our Environment](05-natural-resources.md)
+[Open the navigable handbook](https://nareshgrampalli-coder.github.io/StudentCBSEScience10Hub/). The site includes an examination overview, five unit landing pages, 13 chapter pages, and final revision material.
 
-Each unit includes learning goals, key vocabulary, explanations, original examples, common misconceptions, original practice, and keyed feedback. Suggested investigations are for learning and are not represented as the official practical list.
+## Chapter contents
+
+1. [Chemical Reactions and Equations](https://nareshgrampalli-coder.github.io/StudentCBSEScience10Hub/handbook/chapters/01-chemical-reactions-and-equations/)
+2. [Acids, Bases and Salts](https://nareshgrampalli-coder.github.io/StudentCBSEScience10Hub/handbook/chapters/02-acids-bases-and-salts/)
+3. [Metals and Non-metals](https://nareshgrampalli-coder.github.io/StudentCBSEScience10Hub/handbook/chapters/03-metals-and-non-metals/)
+4. [Carbon and its Compounds](https://nareshgrampalli-coder.github.io/StudentCBSEScience10Hub/handbook/chapters/04-carbon-and-its-compounds/)
+5. [Life Processes](https://nareshgrampalli-coder.github.io/StudentCBSEScience10Hub/handbook/chapters/05-life-processes/)
+6. [Control and Coordination](https://nareshgrampalli-coder.github.io/StudentCBSEScience10Hub/handbook/chapters/06-control-and-coordination/)
+7. [How do Organisms Reproduce?](https://nareshgrampalli-coder.github.io/StudentCBSEScience10Hub/handbook/chapters/07-how-do-organisms-reproduce/)
+8. [Heredity](https://nareshgrampalli-coder.github.io/StudentCBSEScience10Hub/handbook/chapters/08-heredity/)
+9. [Light: Reflection and Refraction](https://nareshgrampalli-coder.github.io/StudentCBSEScience10Hub/handbook/chapters/09-light-reflection-and-refraction/)
+10. [The Human Eye and the Colourful World](https://nareshgrampalli-coder.github.io/StudentCBSEScience10Hub/handbook/chapters/10-human-eye-and-colourful-world/)
+11. [Electricity](https://nareshgrampalli-coder.github.io/StudentCBSEScience10Hub/handbook/chapters/11-electricity/)
+12. [Magnetic Effects of Electric Current](https://nareshgrampalli-coder.github.io/StudentCBSEScience10Hub/handbook/chapters/12-magnetic-effects-of-electric-current/)
+13. [Our Environment](https://nareshgrampalli-coder.github.io/StudentCBSEScience10Hub/handbook/chapters/13-our-environment/)
+
+The unit landing pages remain available in the repository under this directory. Each chapter page has its own practice, answer feedback, and sequential navigation.
 
 ## Scope and source notes
 

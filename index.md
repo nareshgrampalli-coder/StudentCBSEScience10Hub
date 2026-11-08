@@ -6,15 +6,18 @@ permalink: /
 
 <p class="eyebrow">2026–27 edition · Board examination 2027</p>
 
-<p>A chapter-by-chapter study resource for CBSE Class 10 Science (086). Choose a unit below, then use the Previous and Next controls at the end of each page.</p>
+<p>A chapter-by-chapter study resource for CBSE Class 10 Science (086). Choose a unit or chapter below, then use the Previous and Next controls at the end of each page.</p>
 
-<h2>Handbook units</h2>
-
-<ol class="contents-list">
+<ul class="contents-list">
+  {% assign previous_group = '' %}
   {% for item in site.data.book %}
-    <li><a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></li>
+    {% if item.group != previous_group %}
+      <li class="contents-group">{{ item.group | escape }}</li>
+      {% assign previous_group = item.group %}
+    {% endif %}
+    <li><a href="{{ item.url | relative_url }}">{{ item.title | escape }} →</a></li>
   {% endfor %}
-</ol>
+</ul>
 
 <h2>About this resource</h2>
 
