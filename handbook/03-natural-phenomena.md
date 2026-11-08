@@ -1,4 +1,15 @@
-# Unit III — Natural Phenomena: Light and the Human Eye
+---
+layout: book
+title: "Unit III: Natural Phenomena"
+permalink: /handbook/natural-phenomena/
+book_section: "Light and the Human Eye"
+previous_title: "Unit II: World of Living"
+previous_url: /handbook/world-of-living/
+next_title: "Unit IV: Effects of Current"
+next_url: /handbook/effects-of-current/
+---
+
+## Unit III — Natural Phenomena: Light and the Human Eye
 
 ## Learning goals
 

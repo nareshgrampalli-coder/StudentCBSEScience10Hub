@@ -1,0 +1,20 @@
+- title: "Unit I: Chemical Substances"
+  url: /handbook/chemical-substances/
+  source: handbook/01-chemical-substances.md
+  group: Handbook
+- title: "Unit II: World of Living"
+  url: /handbook/world-of-living/
+  source: handbook/02-world-of-living.md
+  group: Handbook
+- title: "Unit III: Natural Phenomena"
+  url: /handbook/natural-phenomena/
+  source: handbook/03-natural-phenomena.md
+  group: Handbook
+- title: "Unit IV: Effects of Current"
+  url: /handbook/effects-of-current/
+  source: handbook/04-effects-of-current.md
+  group: Handbook
+- title: "Unit V: Natural Resources"
+  url: /handbook/natural-resources/
+  source: handbook/05-natural-resources.md
+  group: Handbook

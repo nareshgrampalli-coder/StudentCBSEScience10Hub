@@ -1,0 +1,17 @@
+title: CBSE Class 10 Science (086)
+description: A navigable, original CBSE Class 10 Science study handbook for 2026–27.
+url: https://nareshgrampalli-coder.github.io
+baseurl: /StudentCBSEScience10Hub
+markdown: kramdown
+kramdown:
+  input: GFM
+relative_links:
+  enabled: true
+  collections: true
+exclude:
+  - .github
+  - docs
+  - prompts
+  - scripts
+  - README.md
+  - handbook/README.md

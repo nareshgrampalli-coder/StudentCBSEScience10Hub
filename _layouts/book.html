@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ page.description | default: site.description | escape }}">
+    <title>{{ page.title | default: site.title | escape }} | {{ site.title | escape }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    <header class="site-header">
+      <a class="brand" href="{{ '/' | relative_url }}">
+        <span class="brand-mark" aria-hidden="true">S</span>
+        <span>StudentCBSEScience10Hub<small>Science (086) · Class 10</small></span>
+      </a>
+      <span class="edition">Academic year 2026–27</span>
+    </header>
+
+    <div class="book-shell">
+      <details class="contents-disclosure" open>
+        <summary>Book contents</summary>
+        <nav class="book-sidebar" aria-label="Book contents">
+          <a class="contents-home" href="{{ '/' | relative_url }}">Handbook home</a>
+          {% assign previous_group = '' %}
+          {% for item in site.data.book %}
+            {% if item.group != previous_group %}
+              {% unless forloop.first %}</div>{% endunless %}
+              <h2 class="nav-group-title">{{ item.group | escape }}</h2>
+              <div class="nav-group">
+              {% assign previous_group = item.group %}
+            {% endif %}
+            <a class="nav-link{% if page.permalink == item.url %} is-current{% endif %}"
+               href="{{ item.url | relative_url }}"{% if page.permalink == item.url %} aria-current="page"{% endif %}>
+              {{ item.title | escape }}
+            </a>
+          {% endfor %}
+          </div>
+        </nav>
+      </details>
+
+      <main id="main-content" class="book-main">
+        <div class="reading-column">
+          {% if page.book_section %}
+            <p class="eyebrow">{{ page.book_section | escape }}</p>
+          {% endif %}
+          <h1 class="page-title">{{ page.title | escape }}</h1>
+          <article class="book-content">
+            {{ content }}
+          </article>
+
+          {% if page.previous_url or page.next_url %}
+            <nav class="chapter-pager" aria-label="Handbook navigation">
+              {% if page.previous_url %}
+                <a class="pager-link pager-previous" href="{{ page.previous_url | relative_url }}">
+                  <span class="pager-direction">← Previous unit</span>
+                  <span class="pager-title">{{ page.previous_title | escape }}</span>
+                </a>
+              {% else %}
+                <span class="pager-spacer"></span>
+              {% endif %}
+              {% if page.next_url %}
+                <a class="pager-link pager-next" href="{{ page.next_url | relative_url }}">
+                  <span class="pager-direction">Next unit →</span>
+                  <span class="pager-title">{{ page.next_title | escape }}</span>
+                </a>
+              {% endif %}
+            </nav>
+          {% endif %}
+          <footer class="book-footer">
+            <a href="{{ '/' | relative_url }}">Contents</a>
+            <span>Independent study resource · CBSE Class 10 Science (086)</span>
+            <a href="https://cbseacademic.nic.in/curriculum_2027.html">Official CBSE curriculum</a>
+          </footer>
+        </div>
+      </main>
+    </div>
+    <script>
+      const contentsDisclosure = document.querySelector(".contents-disclosure");
+      const mobileContents = window.matchMedia("(max-width: 860px)");
+      const updateContentsDisclosure = () => {
+        if (mobileContents.matches) {
+          contentsDisclosure.removeAttribute("open");
+        } else {
+          contentsDisclosure.setAttribute("open", "");
+        }
+      };
+      updateContentsDisclosure();
+      mobileContents.addEventListener("change", updateContentsDisclosure);
+    </script>
+  </body>
+</html>

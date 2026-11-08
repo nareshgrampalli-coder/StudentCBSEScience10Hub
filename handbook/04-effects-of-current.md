@@ -1,4 +1,15 @@
-# Unit IV — Effects of Current: Electricity and Magnetism
+---
+layout: book
+title: "Unit IV: Effects of Current"
+permalink: /handbook/effects-of-current/
+book_section: "Electricity and Magnetism"
+previous_title: "Unit III: Natural Phenomena"
+previous_url: /handbook/natural-phenomena/
+next_title: "Unit V: Natural Resources"
+next_url: /handbook/natural-resources/
+---
+
+## Unit IV — Effects of Current: Electricity and Magnetism
 
 ## Learning goals
 

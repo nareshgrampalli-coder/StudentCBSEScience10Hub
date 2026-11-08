@@ -1,4 +1,15 @@
-# Unit II — World of Living
+---
+layout: book
+title: "Unit II: World of Living"
+permalink: /handbook/world-of-living/
+book_section: "World of Living"
+previous_title: "Unit I: Chemical Substances"
+previous_url: /handbook/chemical-substances/
+next_title: "Unit III: Natural Phenomena"
+next_url: /handbook/natural-phenomena/
+---
+
+## Unit II — World of Living
 
 ## Learning goals
 

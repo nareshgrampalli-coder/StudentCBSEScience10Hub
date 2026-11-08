@@ -1,4 +1,13 @@
-# Unit I — Chemical Substances: Nature and Behaviour
+---
+layout: book
+title: "Unit I: Chemical Substances"
+permalink: /handbook/chemical-substances/
+book_section: "Chemical Substances: Nature and Behaviour"
+next_title: "Unit II: World of Living"
+next_url: /handbook/world-of-living/
+---
+
+## Unit I — Chemical Substances: Nature and Behaviour
 
 ## Learning goals
 

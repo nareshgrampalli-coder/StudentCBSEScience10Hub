@@ -1,4 +1,13 @@
-# Unit V — Natural Resources and Our Environment
+---
+layout: book
+title: "Unit V: Natural Resources"
+permalink: /handbook/natural-resources/
+book_section: "Natural Resources and Our Environment"
+previous_title: "Unit IV: Effects of Current"
+previous_url: /handbook/effects-of-current/
+---
+
+## Unit V — Natural Resources and Our Environment
 
 ## Learning goals
 
